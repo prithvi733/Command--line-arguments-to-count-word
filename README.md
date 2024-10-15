@@ -1,4 +1,4 @@
-# EX-9 command-line-arguments-to-count-word
+# EX-10 command-line-arguments-to-count-word
 # Date:
 ## AIM:
 To write a python program for getting the word count from the contents of a file using command line arguments.
